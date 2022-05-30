@@ -1,4 +1,8 @@
 # Google Image Scraper:
+
+![](https://img.shields.io/badge/python-3.10.4-blueviolet)
+![](https://img.shields.io/badge/selenium-3.141.0-orange)
+
 A library to scrape google images
 
 # Usage:
