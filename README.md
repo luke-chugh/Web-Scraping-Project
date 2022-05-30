@@ -2,10 +2,6 @@
 A library to scrape google images
 
 # Usage:
-To use this library run the following command in a command prompt/ terminal inside the directory of this cloned repository:
-```
-python main.py
-```
 ```python
 #Import libraries (Don't change)
 from GoogleImageScrapper import GoogleImageScraper
@@ -33,6 +29,11 @@ for search_key in search_keys:
 
 ```
 Add the **keywords** you want to scrape images for, in the **search_keys** list (line 31) and the number of images you want for each class in **number_of_images** variable (line 34). All the images belonging to each of the classes in **search_keys** will be saved in **photos** folder inside the directory of this cloned repository.
+
+To use this library run the following command in a command prompt/ terminal inside the directory of this cloned repository:
+```
+python main.py
+```
 
 # Installation:
 To install the required packages and libraries, run this command in the project directory after [cloning](https://www.howtogeek.com/451360/how-to-clone-a-github-repository/) the repository:
