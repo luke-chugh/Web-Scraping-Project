@@ -1,13 +1,7 @@
-# Google Image Scraper
+# Google Image Scraper:
 A library to scrape google images
 
-## Pre-requisites:
-1. Pip install Selenium Library
-2. Pip install PIL
-3. Download Google Chrome 
-4. Download Google Webdriver based on your Chrome version
-
-## Setup:
+# Installation:
 1. Open cmd
 2. Clone the repository (or [download](https://github.com/ohyicong/Google-Image-Scraper/archive/refs/heads/master.zip))
     ```
@@ -22,7 +16,7 @@ A library to scrape google images
     python main.py
     ```
 
-## Usage:
+# Usage:
 ```python
 #Import libraries (Don't change)
 from GoogleImageScrapper import GoogleImageScraper
@@ -48,4 +42,10 @@ for search_key in search_keys:
     image_urls = image_scrapper.find_image_urls()
     image_scrapper.save_images(image_urls)
 
+```
+Add the **keywords** you want to scrape images for, in the **search_keys** list (line 31) and the number of images you want for each class in **number_of_images** variable (line 34). All the images belonging to each of the classes in **search_keys** will be saved in **photos** folder inside the directory of this cloned repository.
+
+To use this library run the following command in a command prompt/ terminal inside the directory of this cloned repository:
+```
+python main.py
 ```
