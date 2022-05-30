@@ -2,6 +2,10 @@
 A library to scrape google images
 
 # Usage:
+To use this library run the following command in a command prompt/ terminal inside the directory of this cloned repository:
+```
+python main.py
+```
 ```python
 #Import libraries (Don't change)
 from GoogleImageScrapper import GoogleImageScraper
@@ -34,10 +38,6 @@ Add the **keywords** you want to scrape images for, in the **search_keys** list 
 To install the required packages and libraries, run this command in the project directory after [cloning](https://www.howtogeek.com/451360/how-to-clone-a-github-repository/) the repository:
 ```bash
 pip install -r requirements.txt
-```
-To use this library run the following command in a command prompt/ terminal inside the directory of this cloned repository:
-```
-python main.py
 ```
 # Author:
 [Luke Chugh](https://www.linkedin.com/in/luke-chugh-2b2043181/)
