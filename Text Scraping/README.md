@@ -9,3 +9,12 @@ This project takes a product name from the user (Example: iPhone SE) and then se
 listings on India's largest online shopping site: Flipkart.com. It then scraps cutomer reviews from each product listing and displays the latest 10 reviews in a tabular 
 format on a webpage
 
+## Search a Query:
+
+![](https://github.com/luke-chugh/Web-Scraping-Project/blob/main/Text%20Scraping/Images/Search.png)
+
+## Results:
+
+![](https://github.com/luke-chugh/Web-Scraping-Project/blob/main/Text%20Scraping/Images/Results.png)
+
+
