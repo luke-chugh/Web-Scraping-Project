@@ -1,7 +1,7 @@
-<h1> Simple Text Web Scraping with Deployment </h1>
+# Simple Text Web Scraping with Deployment [[WebApp link]](https://customer-review-scraping.herokuapp.com/)
 <ul>
 <li><h2>Check out the deployed app here:</h2></li> 
-https://customer-review-scraping.herokuapp.com/
+
 <li><h2>About the Project</h2></li> 
 
 <p>This project takes a product name from the user (Example: iPhone SE) and then searches for various product
