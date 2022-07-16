@@ -15,6 +15,6 @@ format on a webpage
 
 ## Results:
 
-![](https://github.com/luke-chugh/Web-Scraping-Project/blob/main/Text%20Scraping/Images/Results.png)
+![](https://github.com/luke-chugh/Web-Scraping-Project/blob/main/Text%20Scraping/Images/Result.png)
 
 
