@@ -11,6 +11,6 @@ All my attempts at scraping data from the Web!
   <ul>
       <li>Scraping Images directly from Google Images using Selenium</li>
       <li> Storing Images in a folder names after the keyword searched</li>
-      <li>Skills: Selenium, Web Scraping</li>
+      <li>Skills: Selenium, Image Scraping</li>
     </ul>
 </ul>  
