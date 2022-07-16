@@ -17,7 +17,7 @@ format on a webpage
 
 ![](https://github.com/luke-chugh/Web-Scraping-Project/blob/main/Text%20Scraping/Images/Result.png)
 
-To run this WebApp in your local machine, run the following command in a command prompt/ terminal inside the directory of this cloned repository:
+To run this WebApp in your local machine, run the following command in a command prompt inside the directory of this cloned repository:
 ```
 python app.py
 ```
