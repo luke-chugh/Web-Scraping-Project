@@ -1,6 +1,6 @@
 # Text Web Scraping WebApp [[WebApp Link]](https://customer-review-scraping.herokuapp.com/)
 
-![](https://img.shields.io/badge/python-3.10.4-blueviolet)
+![](https://img.shields.io/badge/python-3.7-blueviolet)
 ![](https://img.shields.io/badge/BeautifulSoup-4.11.1-%23ff007f)
 ![](https://img.shields.io/badge/Flask-2.1.2-blue)
 ![](https://img.shields.io/badge/Frontend-HTML/CSS/JS-fuchsia)
